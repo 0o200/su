@@ -9,7 +9,7 @@ import java.io.*;
  * 
  * @author
  */
-public class httpserver {
+public class HttpServer {
 	public static void main(String[] args) {
 		Socket socket = null;
 		try {
